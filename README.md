@@ -28,9 +28,9 @@ API REST DESENVOLVIDA em TypeScript com Node.js, Express e MySQL.
 - ✅ Editar usuário
 - ✅ Deletar usuário
 
-## 🛠️ Passo a Passo - Criação do Projeto
+## 🛠️ Passo a Passo - Criação do Projeto.
 
-### 1. Configuração Inicial
+### 1. Configuração Inicial.
 ```bash
 # Criar pasta do projeto
 mkdir api-typescript
@@ -49,7 +49,7 @@ npm install -D @types/express @types/cors @types/node @types/bcrypt typescript t
 npx tsc --init
 ```
 
-### 2. Estrutura de Pastas
+### 2. Estrutura de Pastas.
 ```bash
 # Criar estrutura de pastas
 mkdir src
@@ -77,7 +77,7 @@ PASSWORD=sua_senha
 DATABASE=db_loja
 ```
 
-### 5. Arquivos Criados
+### 5. Arquivos Criados.
 
 #### src/interfaces/types.ts
 ```typescript
