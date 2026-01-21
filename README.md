@@ -1,6 +1,6 @@
 # API TypeScript Completa
 
-API REST desenvolvida em TypeScript com Node.js, Express e MySQL.
+API REST DESENVOLVIDA em TypeScript com Node.js, Express e MySQL.
 
 ## 🚀 Tecnologias
 
