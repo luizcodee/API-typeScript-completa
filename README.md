@@ -333,6 +333,6 @@ POST /api/produto
 
 ## 🔒 Segurança
 
-- Senhas são criptografadas com bcrypt
-- Prepared statements para prevenir SQL Injection
-- CORS configurado para requisições cross-origin
+- Senhas são criptografadas com bcrypt.
+- Prepared statements para prevenir SQL Injection.
+- CORS configurado para requisições cross-origin.
